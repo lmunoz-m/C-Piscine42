@@ -12,3 +12,10 @@
 | [CPiscine06](./CPiscine06) 	 | 100% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK |
 | [CPiscine07](./CPiscine07) 	 | 100% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: OK |
 | [CPiscine08](./CPiscine08) 	 | 100% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: OK |
+
+| Rush           | Calificación   | Especificación |
+|----------------|----------------|----------------|
+| [Rush00](./Rush00) 	 | 120% :heavy_check_mark: |
+| [Rush01](./Rush01) 	 | 0% :x:|
+| [Rush02](./Rush02) 	 | Por problemas informáticos no pudo ser corregido |
+
