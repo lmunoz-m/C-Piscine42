@@ -19,6 +19,8 @@
 | [Rush01](./Rush01) 	 | 0% :x:|
 | [Rush02](./Rush02) 	 | Por problemas informáticos no pudo ser corregido |
 
+### Proyecto realizado junto con [Guillermo Vargas](https://github.com/guillermovahi)
+
 | BSQ            | Calificación   |
 |----------------|----------------|
 | [BSQ](./BSQ) 	 | 100% :heavy_check_mark: |
